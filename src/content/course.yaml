@@ -12,3 +12,5 @@ structure:
         path: /module-1/lesson-3
       - title: Lesson 4
         path: /module-1/lesson-4
+      - title: Lesson 5
+        path: /module-1/lesson-5
