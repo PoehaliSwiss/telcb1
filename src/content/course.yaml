@@ -18,3 +18,5 @@ structure:
     items:
       - title: Lesson 6
         path: /module-2/lesson-6
+      - title: Lesson 7
+        path: /module-2/lesson-7
