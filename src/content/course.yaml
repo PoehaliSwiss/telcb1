@@ -8,3 +8,5 @@ structure:
         path: /module-1/lesson-1
       - title: Lesson 2
         path: /lesson-2
+      - title: Lesson 3
+        path: /module-1/lesson-3
