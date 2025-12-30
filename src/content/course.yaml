@@ -2,3 +2,5 @@ title: New Course
 structure:
   - title: Overview
     path: /overview
+  - title: Module 1
+    items: []
